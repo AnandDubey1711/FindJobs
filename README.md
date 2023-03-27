@@ -15,10 +15,11 @@ Now I used useFetcher hook for fetching popular jobs and search functionality an
 # DEMO
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/110890327/227828856-ce4dab6c-d957-4744-b1de-8232062c05c7.jpeg" width="200" />
-  <img src="https://user-images.githubusercontent.com/110890327/227828945-16873a95-b6ed-4038-966f-9bb7802d97c6.jpeg" width="200" /> 
-  <img src="https://user-images.githubusercontent.com/110890327/227829786-b3738032-5e93-4dee-b41f-bd40c800a7ae.jpeg" width="200" />
-  <img src="https://user-images.githubusercontent.com/110890327/227829786-b3738032-5e93-4dee-b41f-bd40c800a7ae.jpeg" width="200" />
-  <img src="https://user-images.githubusercontent.com/110890327/227830342-31cb1f2d-0cd7-4650-9d8f-19792870aa84.jpeg" width="200" />
+  <img src="https://user-images.githubusercontent.com/110890327/227828856-ce4dab6c-d957-4744-b1de-8232062c05c7.jpeg" width="220" />
+  <img src="https://user-images.githubusercontent.com/110890327/227830522-fa76d3f6-4c2e-42ae-ace3-c6386ab5efc8.jpeg" width="220" /> 
+  <img src="https://user-images.githubusercontent.com/110890327/227830586-86d9d74b-3e27-49cf-8292-d63da787a794.jpeg" width="220" />
+  <img src="https://user-images.githubusercontent.com/110890327/227830633-47a4e635-bb55-4e05-9383-b5a76546a50a.jpeg" width="220" />
+  <img src="https://user-images.githubusercontent.com/110890327/227830342-31cb1f2d-0cd7-4650-9d8f-19792870aa84.jpeg" width="220" />
 </p>
+
 
