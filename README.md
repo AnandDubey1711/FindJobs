@@ -12,14 +12,13 @@ I created another hook named "useFetcher" and made a second account on rapid api
 The key I recieved from the second account I used it for useFetcher hook.
 Now I used useFetcher hook for fetching popular jobs and search functionality and useFetch hook for nearbyjobs.
 
-#DEMO
+# DEMO
 
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/110890327/227828856-ce4dab6c-d957-4744-b1de-8232062c05c7.jpeg" width="200" />
+  <img src="https://user-images.githubusercontent.com/110890327/227828945-16873a95-b6ed-4038-966f-9bb7802d97c6.jpeg" width="200" /> 
+  <img src="https://user-images.githubusercontent.com/110890327/227829786-b3738032-5e93-4dee-b41f-bd40c800a7ae.jpeg" width="200" />
+  <img src="https://user-images.githubusercontent.com/110890327/227829786-b3738032-5e93-4dee-b41f-bd40c800a7ae.jpeg" width="200" />
+  <img src="https://user-images.githubusercontent.com/110890327/227830342-31cb1f2d-0cd7-4650-9d8f-19792870aa84.jpeg" width="200" />
+</p>
 
-![WhatsApp Image 2023-03-27 at 8 08 18 AM](https://user-images.githubusercontent.com/110890327/227827683-49d0abf4-1557-4b14-b1bf-8f031745814a.jpeg) 
-
-![WhatsApp Image 2023-03-27 at 8 08 17 AM](https://user-images.githubusercontent.com/110890327/227827702-afdc6dcf-0e99-4983-9065-580cc1734eda.jpeg)
-![WhatsApp Image 2023-03-27 at 8 08 16 AM (1)](https://user-images.githubusercontent.com/110890327/227827715-4c3834a0-ca4f-4e12-9a44-ff1c3e6b23da.jpeg)
-![WhatsApp Image 2023-03-27 at 8 08 16 AM](https://user-images.githubusercontent.com/110890327/227827729-486dce97-41a8-45da-8788-61bcf49e00c2.jpeg)
-![pic3](https://user-images.githubusercontent.com/110890327/227828338-e203269e-dacd-46f9-b8e9-9865e8d97cf8.jpg)
-
-![WhatsApp Image 2023-03-27 at 8 08 13 AM](https://user-images.githubusercontent.com/110890327/227827743-284cb96b-d1ba-4866-99a8-fead309db5b3.jpeg)
